@@ -7,12 +7,12 @@ This document is intended for Plone developers who want to:
 * let Facebook user be authenticated in Plone
 
 
-collective.fb is both a product and a bundle that:
+collective.fb is a bundle that:
 
-a. provide an UI to let the admin to manage the facebook api key
-b. includes the collective.opengraph package
-c. will include another PAS plugin package that will let users login using their Facebook account
+a. includes the collective.opengraph package
+b. will include another PAS plugin package that will let users login using their Facebook account
 
+The collective.opengraph package will be a dependency for the PAS plugin.
 
 The two sides
 -------------

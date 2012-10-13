@@ -1,10 +1,12 @@
 The Plone Side
 ==============
 
-collective.opengraph
---------------------
+collective.fb
+-------------
 
-This package is a part of the Plone's collective.fg bundle. It adds the opengraph metadata to your HTML head section.
+This package contains collective.opengraph. It adds the opengraph metadata to your HTML head section.
+
+In the future it will include also the PAS plugin to authenticate users using their Facebook's account.
 
 Supported metadata:
  * og:site_name name of the site
@@ -17,8 +19,6 @@ from the control panel you can manage following settings:
 - the default og:type 
 - which content types should be opengraph metadata aware
 
-
-
 How to install it
 ^^^^^^^^^^^^^^^^^
 
@@ -27,16 +27,16 @@ Add collective.fb to your buildout's list of eggs such as::
 	[buildout]
 	...
 	eggs =
-		collective.opengraph
+		collective.fb
 	...
 
-and run the buildout. Start Zope, go to Site Setup -> Add-on Products in your Plone site and install the 'collective.opengraph' product.
+and run the buildout. Start Zope, go to Site Setup -> Add-on Products in your Plone site and install the 'collective.fb' product.
 
 
 How to configure it
 ^^^^^^^^^^^^^^^^^^^
 
-
+XXX add few screenshots here
 
 
 
@@ -77,15 +77,15 @@ You can also customize existing og values::
 
 TO DO: how to add extra metadatas to an AT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+XXX
 
 Authenticate Facebook users
 ---------------------------
-to be done
+This package has to be done.
+
 
 How to install it
 ^^^^^^^^^^^^^^^^^
-
 
 How to configure it
 ^^^^^^^^^^^^^^^^^^^
