@@ -1,29 +1,22 @@
-Introduction
+Plone and Facebook integration Documentation
+============================================
+
+This package is intended for Plone developers who want to:
+
+* let Plone contents be OpenGraph enabled
+* let Facebook user be authenticated in Plone
+
+collective.fb is both a product and a bundle that:
+
+a. provide an UI to let the admin to manage the facebook api key
+b. includes the collective.opengraph package
+c. will include another PAS plugin package that will let users login using their Facebook account
+
+Documentation
 ============
 
-This is the Sphinx source for the integration between Plone and Facebook manual.
-
 To read the documentation (formatted) in your web browser,
-please head to `XXX Documentation at readthedocs.org <http://collective-docs.readthedocs.org/en/latest/>`_.
-
-To learn how to update and manage this documentation and its tools, read 
-`Writing and updating this documentation <http://collective-docs.readthedocs.org/en/latest/introduction/writing.html>`_. XXX
-
-Some clarifications:
-
-* ``source`` folder contains the Sphinx manual source
-
-* ``src`` folder will be target for the source code, checkouted for source code documentation inclusion
-
-Building and continous integration
-====================================
-
-This code base uses Travis CI continuous integration 
-to check the integrity of the source files.
-
-See ``.travis.yml`` file for continuous integration settings.
-
-* `Travis build page <http://travis-ci.org/#!/collective/collective.fb>`_
+please head to `Plone and Facebook integration Documentation at readthedocs.org <http://collectivefb.readthedocs.org/en/latest/>`_.
 
 License
 -------
