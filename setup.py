@@ -7,7 +7,7 @@ import os
 
 version = '1.0'
 
-setup(name='collective.facebook',
+setup(name='collective.fb',
       version=version,
       description="Plone Developer Documentation",
       classifiers=[
@@ -15,8 +15,8 @@ setup(name='collective.facebook',
         "Topic :: Software Development :: Libraries :: Python Modules",
         ],
       keywords='',
-      author='Mikko Ohtamaa & Plone community contributors',
-      author_email='mikko@opensourcehacker.com',
+      author='Massimo Azzolini, Mauro Amico, Andrzej Mleczko',
+      author_email='sviluppoplone@redturtle.it',
       url='http://plone.org',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
