@@ -20,10 +20,8 @@ The two sides
 .. toctree::
    :maxdepth: 1
 
-   facebook-side
-   plone-side
-
-
+   the-two-sides/facebook-side
+   the-two-sides/plone-side
 
 
 Other

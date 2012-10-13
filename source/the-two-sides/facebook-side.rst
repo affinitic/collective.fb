@@ -10,12 +10,12 @@ The very first thing you have to do is to create a Facebook application.
 
 2. Fill the popover form that appears
 
-.. image:: _static/facebookapp/new-facebook-app.png
+.. image:: /_static/facebookapp/new-facebook-app.png
 
 3. Pass the security check (captcha).
    This is what you get:
 
-.. image:: _static/facebookapp/myplonefbapp.png
+.. image:: /_static/facebookapp/myplonefbapp.png
 
 4. Edit the settings and complete the basic configuration with few more data:
 
@@ -23,7 +23,7 @@ The very first thing you have to do is to create a Facebook application.
    * (opt.) if you want to have Facebook autentication, select "Website with Facebook Login" and set the URL of your website.
    * (opt.) choose a category
 
-.. image:: _static/facebookapp/basics-myplonefbapp.png
+.. image:: /_static/facebookapp/basics-myplonefbapp.png
 
 
 Debug your HTML pages
@@ -32,7 +32,7 @@ There a useful tool that checks how Facebook sees your page: https://developers.
 
 For example, checking a News object on a Plone website, this what you can get.
 
-.. image:: _static/facebookapp/debug-page.png
+.. image:: /_static/facebookapp/debug-page.png
 
 Please, note all of those 'og:xxx' properties that has to be added to a standard Plone page.
 
