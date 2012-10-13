@@ -6,7 +6,7 @@ How to configure Facebook
 
 The very first thing you have to do is to create a Facebook application. 
 
-1. Open https://developers.facebook.com/app. Look at that 'Create new app' button. It's your friend.
+1. Open https://developers.facebook.com/app (if you are not registered yet, do it `here <https://developers.facebook.com>`_). Look at that 'Create new app' button. It's your friend.
 
 2. Fill the popover form that appears
 

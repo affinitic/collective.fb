@@ -88,7 +88,7 @@ The final result is something like::
 	<meta property="fb:admins" content="1306804485" />
 	<meta property="fb:app_id" content="360891567328123" />
 
-
+and it'll appear in the HEAD of your HTML page.
 
 
 
