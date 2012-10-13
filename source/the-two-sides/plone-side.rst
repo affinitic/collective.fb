@@ -52,6 +52,7 @@ If you prefer to use the id, you can go to: https://developers.facebook.com/tool
 
 For example: https://developers.facebook.com/tools/explorer?method=GET&path=massimo.azzolini
 returns::
+
 	{
 	  "id": "1306804485", 
 	  "name": "Massimo Azzolini", 
@@ -94,7 +95,7 @@ and it'll appear in the HEAD of your HTML page.
 How to customize the behaviour of a AT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-One of the goals of this package is also to allow developers extend the default metadata definition, since the basic configuration 
+One of the goals of this package is also to allow developers extend the default metadata definition.
 
 It's available threw IOpengrapMetatags adapter::
 
