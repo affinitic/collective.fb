@@ -62,8 +62,6 @@ yuicompressor-*
 
 bin
 picked.cfg
-src
-
 .Python
 include
 lib
