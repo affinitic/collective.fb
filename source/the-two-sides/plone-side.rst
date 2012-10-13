@@ -91,11 +91,11 @@ The final result is something like::
 and it'll appear in the HEAD of your HTML page.
 
 
-
 How to customize the behaviour of a AT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-One of the goals of this package is also to allow developers extend the default metadata definition.
+One of the goals of this package is also to allow developers extend the default metadata definition, since the basic configuration 
+
 It's available threw IOpengrapMetatags adapter::
 
 	from collective.opengraph.interfaces IOpengraphMetatags
