@@ -45,8 +45,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Plone Developer Documentation'
-copyright = u'Plone community and other individual contributors'
+project = u'Plone and Facebook integration Documentation¶'
+copyright = u''
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -143,7 +143,7 @@ html_static_path = ['_static']
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {}
 html_sidebars = {
-   '**': ['localtoc.html', 'searchbox.html', 'plone.html'],
+   '**': ['localtoc.html', 'searchbox.html',],
 }
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
