@@ -42,10 +42,11 @@ There is also a warning about the image loaded in that news. It's about the fact
 Understanding and configuring Facebook permissions
 --------------------------------------------------
 
+XXX
 
 
 TO DO
 -----
 
-* Leverage on ATstandard in a custom way
-* Custom ATmycustomcontenttype
+* Change og metadatas of a ATstandard to use it in Facebook in a custom way
+* Custom Archetypes
