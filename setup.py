@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 # it just keeps some tools happy
 # 
 import os
-version = '1.0'
+version = '1.1.dev0'
 
 setup(name='collective.fb',
       version=version,
