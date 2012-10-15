@@ -13,7 +13,7 @@ b. includes the collective.opengraph package
 c. will include another PAS plugin package that will let users login using their Facebook account
 
 Documentation
-============
+=============
 
 To read the documentation (formatted) in your web browser,
 please head to `Plone and Facebook integration Documentation at readthedocs.org <http://collectivefb.readthedocs.org/en/latest/>`_.
