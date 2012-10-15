@@ -4,13 +4,13 @@ from setuptools import setup, find_packages
 # it just keeps some tools happy
 # 
 import os
-
 version = '1.0'
 
 setup(name='collective.fb',
       version=version,
       description="Plone Facebook integration bundle",
-      long_description=open("README.rst").read(),
+      long_description=open("README.rst").read() + "\n" +
+                       open(os.path.join("docs", "HISTORY.txt")).read(),
       classifiers=[
         "Programming Language :: Python",
         "Topic :: Software Development :: Libraries :: Python Modules",
